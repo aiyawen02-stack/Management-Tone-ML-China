@@ -1,0 +1,4 @@
+﻿Model,R-squared,RMSE,MAE
+OLS Regression (Baseline),0.137,0.077,0.057
+Random Forest,0.43,0.063,0.042
+Gradient Boosting,0.388,0.065,0.043
